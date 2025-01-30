@@ -1,0 +1,3 @@
+ini merupakan file yang di buat di branch A
+dan sudah benar
+file branch A
